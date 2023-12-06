@@ -4,7 +4,7 @@
 
 ## Summary and Purpose
 
-In this project, Oracle VirtualBox was utilized to create n simulated corporate environment. The environment consisted of a Virtual Machine (VM) running Windows Server 2019, a VM running Windows 10 Pro, and a VM running Ubuntu. The Windows Server 2019 VM served as the Domain Controller and hosted the Active Directory service. A custom PowerShell script was executed to populate Active Directory with 1000 users. Each user was given a fictional name and a default password. The Windows 10 Pro VM and the Ubuntu VM were then configured and joined to the domain. Active Directory was then used to create Organizational Units, Group Policies, and Security Groups. In conclusion, Active Directory was configured to act as a centralized management system for user accounts, computers, and other network resources.
+In this project, Oracle VirtualBox was utilized to create a simulated corporate environment. The environment consisted of a Virtual Machine (VM) running Windows Server 2019, a VM running Windows 10 Pro, and a VM running Ubuntu. The Windows Server 2019 VM served as the Domain Controller and hosted the Active Directory service. A custom PowerShell script was executed to populate Active Directory with 1000 users. Each user was given a fictional name and a default password. The Windows 10 Pro VM and the Ubuntu VM were then configured and joined to the domain. Active Directory was then used to create Organizational Units, Group Policies, and Security Groups. In conclusion, Active Directory was configured to act as a centralized management system for user accounts, computers, and other network resources.
 
 <br />
 
